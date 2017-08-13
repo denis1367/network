@@ -1,0 +1,2 @@
+#!/bin/bash
+/programas/server 2400  &>/dev/null & 
