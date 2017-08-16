@@ -1,0 +1,24 @@
+2015-03-02 20:20:51.808 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-03-02 20:21:32.342 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-03-02 20:21:32.342 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-03-02 20:21:32.342 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-03-02 20:21:32.404 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-03-02 20:21:50.515 [INFO] com.docsis.tela.FrmLogin:155 - fechando o sistema sem loga
+2015-03-02 20:22:13.986 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-03-02 20:22:28.162 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-03-02 20:22:28.162 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-03-02 20:22:28.162 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-03-02 20:22:28.162 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-03-02 20:22:40.568 [INFO] com.docsis.tela.FrmLogin:155 - fechando o sistema sem loga
+2015-03-02 20:30:11.973 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-03-02 20:30:24.255 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-03-02 20:30:24.255 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-03-02 20:30:24.255 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-03-02 20:30:24.271 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-03-02 20:31:05.742 [INFO] com.docsis.tela.FrmLogin:156 - fechando o sistema sem loga
+2015-03-02 20:31:32.885 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-03-02 20:31:48.745 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-03-02 20:31:48.745 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-03-02 20:31:48.745 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-03-02 20:31:48.761 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-03-02 20:36:15.221 [INFO] com.docsis.tela.FrmLogin:156 - fechando o sistema sem loga

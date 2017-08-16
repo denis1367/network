@@ -1,0 +1,5 @@
+2015-04-13 14:05:33.107 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-04-13 14:05:47.721 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-04-13 14:05:47.722 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-04-13 14:05:47.723 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-04-13 14:05:47.733 [INFO] com.docsis.util.DBUtil:42 - Driver carregado

@@ -1,0 +1,100 @@
+2015-06-03 00:13:00.936 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 00:13:12.867 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 00:13:12.869 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 00:13:12.869 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 00:13:12.883 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-06-03 00:17:15.781 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 00:17:33.715 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 00:17:33.716 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 00:17:33.717 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 00:17:33.730 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-06-03 00:27:37.645 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 00:29:40.950 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 00:29:40.950 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 00:29:40.950 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 00:29:40.950 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-06-03 00:46:38.755 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 00:46:49.909 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 00:46:49.909 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 00:46:49.909 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 00:46:49.925 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-06-03 01:20:41.894 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 01:20:48.368 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:117)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:83)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-06-03 01:21:11.005 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 01:21:17.479 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:117)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:83)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-06-03 01:21:44.639 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 01:21:51.113 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:117)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:83)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$300(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-06-03 01:22:33.687 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 01:22:46.916 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 01:22:46.916 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 01:22:46.916 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 01:22:46.931 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-06-03 01:23:34.231 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 01:23:49.051 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 01:23:49.051 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 01:23:49.051 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 01:23:49.067 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-06-03 01:26:50.536 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 01:27:02.408 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 01:27:02.408 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 01:27:02.408 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 01:27:02.423 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-06-03 01:29:17.993 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-06-03 01:29:31.796 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-06-03 01:29:31.796 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-06-03 01:29:31.796 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-06-03 01:29:31.812 [INFO] com.docsis.util.DBUtil:42 - Driver carregado

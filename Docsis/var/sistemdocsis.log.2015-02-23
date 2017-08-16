@@ -1,0 +1,287 @@
+2015-02-23 09:44:23.431 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:44:30.397 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:125)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:77)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:46:02.659 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:46:08.023 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:125)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:77)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:46:34.476 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:46:39.846 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:126)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:77)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:47:06.612 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:47:11.983 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:126)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:77)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:47:23.248 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:47:28.630 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:126)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:77)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:47:46.780 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:47:52.130 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:126)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:77)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:48:05.272 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:48:10.672 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:127)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:78)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:48:19.317 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:48:24.701 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:128)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:78)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:48:41.641 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:48:47.016 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:127)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:78)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:49:16.862 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:49:22.252 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:127)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:78)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:49:30.607 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 09:49:35.990 [ERROR] com.docsis.start.StartInfroDoc:54 - 
+java.lang.NullPointerException
+	at javax.swing.ImageIcon.<init>(Unknown Source)
+	at com.docsis.tela.FrmLogin.montaTela(FrmLogin.java:127)
+	at com.docsis.tela.FrmLogin.<init>(FrmLogin.java:78)
+	at com.docsis.start.StartInfroDoc$1.run(StartInfroDoc.java:41)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$200(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+2015-02-23 09:51:41.542 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:00:16.318 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:00:26.287 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:00:26.288 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:00:26.288 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:00:26.299 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:01:26.964 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:01:38.622 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:01:38.623 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:01:38.623 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:01:38.632 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:02:55.082 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:03:05.876 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:03:05.878 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:03:05.879 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:03:05.896 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:04:40.086 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:04:48.157 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:04:48.158 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:04:48.158 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:04:48.168 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:06:43.591 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:06:51.932 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:06:51.933 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:06:51.933 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:06:51.945 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:07:32.223 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:07:41.213 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:07:41.214 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:07:41.214 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:07:41.223 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:08:32.154 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:08:43.667 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:08:43.668 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:08:43.668 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:08:43.678 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:13:29.807 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:13:43.666 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:13:43.666 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:13:43.667 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:13:43.676 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:14:58.468 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:15:15.689 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:15:15.690 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:15:15.690 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:15:15.700 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:16:40.135 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:16:53.489 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:16:53.490 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:16:53.490 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:16:53.499 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
+2015-02-23 10:20:42.324 [INFO] com.docsis.start.StartInfroDoc:28 - Iniciando
+2015-02-23 10:21:01.686 [INFO] com.docsis.util.DBUtil:38 - URL DATABASE : jdbc:mysql://186.237.60.141/docsis
+2015-02-23 10:21:01.687 [INFO] com.docsis.util.DBUtil:39 - DRIVER JDBC : com.mysql.jdbc.Driver
+2015-02-23 10:21:01.687 [INFO] com.docsis.util.DBUtil:40 - Carregando driver 
+2015-02-23 10:21:01.696 [INFO] com.docsis.util.DBUtil:42 - Driver carregado
